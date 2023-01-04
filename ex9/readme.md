@@ -31,6 +31,6 @@ To use the script, run the following command line:
 
 `./RemoveDuplicatedIPAddress.sh control_file.txt`
 
-*servers_version.txt* will bring the results and will be placed at /tmp/output_1.txt.
+The results and will be placed at /tmp/output_1.txt.
 
 `cat /tmp/output_1.txt`
