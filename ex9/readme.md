@@ -24,6 +24,7 @@ All comment lines must be kept on the final output file.
 ## **Solution**
 
 Set RemoveDuplicatedIPAddress.sh as executable
+
 `chmod +x RemoveDuplicatedIPAddress.sh`
 
 To use the script, run the following command line:

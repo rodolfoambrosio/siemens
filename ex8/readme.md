@@ -18,6 +18,7 @@ date (hh:mm:ss mm/dd/yy)    <server name>      <server ip>    <server version>
 ## **Solution**
 
 Set get_OS_version.sh as executable
+
 `chmod +x get_OS_version.sh`
 
 To use the script, run the following command line:
@@ -27,4 +28,5 @@ To use the script, run the following command line:
 *myservers_list.txt* should have the list of servers to be consulted.
 
 *servers_version.txt* will bring the results and will be placed at /tmp/server_version.txt
+
 `cat /tmp/server_version.txt`
