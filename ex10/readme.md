@@ -5,17 +5,21 @@
 
 **Premisses:**
 
-No tabs allowed;
-All comment lines must be kept on the final output file as well.
+- No tabs allowed;
+- All comment lines must be kept on the final output file as well.
 
 **E.g:**
 
 After processing the final result must be:
 
 #This is a comment and I need to be on the final file result! :) 
+
 a.b.c.d                 eeeeeeee   ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+
 aa.bb.cc.dd         eeeeeeee   ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+
 aaa.bbb.ccc.ddd   eeeeeeee   ffffffff.ggggg.hhh   iii=A   jjj=k   llllll=BBmmm   nnnn=CC   ooo=pp   rrr=D   sss=tt,tt,tt,tt,tt,tt   #yyy
+
 
 ## **Solution**
 
